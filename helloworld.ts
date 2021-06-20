@@ -46,7 +46,13 @@ function basicTyping(){
     // let is block scoped
 }
 
+// 2, Refining typing
+function refiningTyping(){
+    let someString: string = "string"
+    console.log(typeof someString === "string");
+}
 
-basicTyping();
+// basicTyping();
+refiningTyping();
 
 export {}
