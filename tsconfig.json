@@ -22,7 +22,7 @@
   },
   "include": [
     "src"
-  ],
+, "app.ts"  ],
   "exclude": [
     "src/exercises"
   ]
